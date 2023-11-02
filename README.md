@@ -53,6 +53,7 @@ A "category" column that has only the categories.
 
 . The following image shows this campaign.csv exported
 
+# Campaign
 <img width="999" alt="Screenshot 2023-10-31 at 2 18 59 PM" src="https://github.com/aamanhassan/Crowdfunding_ETL/assets/139508376/c0b5cc17-1241-4724-8d0d-1af75e9f25f6">
 
 Created the Contacts DataFrame
@@ -62,6 +63,7 @@ Created the Contacts DataFrame
 * Option 1: Use Python dictionary methods.
 * Option 2: Use regular expressions.
 
+# Contacts
 <img width="730" alt="Screenshot 2023-10-31 at 2 18 28 PM" src="https://github.com/aamanhassan/Crowdfunding_ETL/assets/139508376/98a201ed-b4b0-4b60-8e14-800c2906514f">
 
 # Create the Crowdfunding Database
