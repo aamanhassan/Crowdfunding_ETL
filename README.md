@@ -74,9 +74,13 @@ Created the Contacts DataFrame
 3. Created a new Postgres database, named crowdfunding_db. Imported csv files and verified that each table has correct data. Also provided the screenshoot of successful SQL imports in my repository for reference. 
 
 <img width="416" alt="Screenshot category" src="https://github.com/aamanhassan/Crowdfunding_ETL/assets/139508376/05697867-177f-4b7e-853b-131bc3f94ee4">
+
+
 <img width="419" alt="Screenshot subcategory" src="https://github.com/aamanhassan/Crowdfunding_ETL/assets/139508376/4580b9d8-90e0-42e8-964e-26f1e3acac49">
 
+
 <img width="676" alt="Screenshot contacts" src="https://github.com/aamanhassan/Crowdfunding_ETL/assets/139508376/4cfe051e-b28d-451d-89ee-b125cdbf03b3">
+
 
 <img width="720" alt="Screenshot campaign" src="https://github.com/aamanhassan/Crowdfunding_ETL/assets/139508376/451885d1-08ce-4ae9-9ecb-3ce28dc5fedc">
 
